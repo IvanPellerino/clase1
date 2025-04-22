@@ -1,1 +1,17 @@
 Machine Learning
+El Machine Learning (aprendizaje automático) es una rama de la inteligencia artificial que permite a las computadoras aprender patrones a partir de datos sin necesidad de ser programadas explícitamente. En lugar de seguir instrucciones rígidas, los algoritmos de Machine Learning analizan ejemplos, identifican relaciones y mejoran su rendimiento con el tiempo.
+Se usa en muchas áreas, como:
+•	Reconocimiento Facial: en cámaras y redes sociales
+•	Recomendaciones: en plataformas como Nétflix o Spotify
+•	Predicción de fraudes: en bancos y sistemas de seguridad
+•	Automatización: en autos autónomos y asistentes virtuales
+El Machine Learning se basa en la idea de que una máquina puede mejorar su rendimiento al analizar datos, encontrar patrones y hacer predicciones. Para lograr esto, utiliza modelos matemáticos y estadísticas.
+Tipos de aprendizaje en Machine Learning:  
+•	Aprendizaje supervisado: La máquina recibe datos con etiquetas. Por ejemplo, si entrenamos un algoritmo para reconocer imágenes de gatos, le proporcionamos muchas fotos con la etiqueta "gato" y "no gato". Luego, el modelo aprende a distinguirlos.  
+•	Aprendizaje no supervisado: Aquí, los datos no tienen etiquetas. La máquina agrupa la información según similitudes. Esto es útil en segmentación de clientes o análisis de tendencias.  
+•	Aprendizaje por refuerzo: Similar a cómo aprende un humano con prueba y error. El algoritmo interactúa con su entorno y mejora su desempeño con recompensas y penalizaciones. Se usa en robots y juegos como el ajedrez.  
+Aplicaciones importantes:  
+•	Procesamiento de lenguaje natural: Chatbots y asistentes como Copilot analizan y generan texto de forma natural.  
+•	Medicina: Detección de enfermedades mediante análisis de imágenes médicas.  
+•	Finanzas: Predicción de riesgos y detección de fraudes.  
+El Machine Learning es clave para la evolución de la inteligencia artificial.
